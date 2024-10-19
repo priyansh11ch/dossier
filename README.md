@@ -9,10 +9,10 @@ Created a web application using web programming languages. Deployed it on AWS EC
 => "AWS EC2 (Elastic Compute Cloud)" is a web service that provides resizable compute capacity in the cloud. It allows users to launch and manage virtual servers, called instances, which can run a variety of operating systems. EC2 offers scalability, flexibility, and control over the computing environment, allowing businesses and developers to avoid the upfront costs and complexity of owning physical servers. It is commonly used for hosting websites and web applications, running large-scale data processing.
    
 ### Mobaxterm 
-"MobaXterm" is widely used by developers and system administrators for remote system management, network monitoring, and accessing multiple servers simultaneously from a single interface. t offers a range of features such as an SSH client, X11 server, remote desktop (RDP, VNC), file transfer (SFTP, SCP), and a built-in terminal with Unix commands.
+=> "MobaXterm" is widely used by developers and system administrators for remote system management, network monitoring, and accessing multiple servers simultaneously from a single interface. t offers a range of features such as an SSH client, X11 server, remote desktop (RDP, VNC), file transfer (SFTP, SCP), and a built-in terminal with Unix commands.
    
 ### GitHub
-"GitHub" is a web-based platform for version control and collaborative software development. It uses Git, a distributed version control system, to track changes in code and manage multiple versions of a project. GitHub allows developers to collaborate by hosting repositories, where they can contribute, review, and merge code changes.
+=> "GitHub" is a web-based platform for version control and collaborative software development. It uses Git, a distributed version control system, to track changes in code and manage multiple versions of a project. GitHub allows developers to collaborate by hosting repositories, where they can contribute, review, and merge code changes.
 
 ## Steps followed:-
 1. Create the EC2 instance
@@ -55,6 +55,6 @@ You cam also check the status whether httpd is started or not using the followin
    
 9. Clone your github repository where the portfolio is stored, use the following command
 
-   ### git clone <HTTPS link of your repo>
+   ### git clone {repo link}
    
 10. Its done, access your website -> Open your browser and visit your EC2 instance’s public IP address. Your website from GitHub should now be live!

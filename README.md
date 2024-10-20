@@ -7,6 +7,12 @@ Created a web application using web programming languages. Deployed it on AWS EC
   
 ### Amazon AWS EC2
 => "AWS EC2 (Elastic Compute Cloud)" is a web service that provides resizable compute capacity in the cloud. It allows users to launch and manage virtual servers, called instances, which can run a variety of operating systems. EC2 offers scalability, flexibility, and control over the computing environment, allowing businesses and developers to avoid the upfront costs and complexity of owning physical servers. It is commonly used for hosting websites and web applications, running large-scale data processing.
+
+### Security Groups (AWS)
+=> Security groups are used to control the inbound and outbound traffic on the virtual server.
+
+### SSH (Secure Shell)
+=> Secure Shell is used to securely connect to the EC2 istance to deploy files and applications and also to configure the web server to serve your application(portfolio).
    
 ### Mobaxterm 
 => "MobaXterm" is widely used by developers and system administrators for remote system management, network monitoring, and accessing multiple servers simultaneously from a single interface. t offers a range of features such as an SSH client, X11 server, remote desktop (RDP, VNC), file transfer (SFTP, SCP), and a built-in terminal with Unix commands.
